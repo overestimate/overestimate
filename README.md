@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+
+I am Mary, a girl with a passion to code.
 
 <!--
 **overestimate/overestimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
