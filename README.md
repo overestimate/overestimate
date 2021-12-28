@@ -1,7 +1,9 @@
 ### Hi!
 
-I am Trinity, a girl with a passion to code.
+I am Emma, a girl with a passion to code.
 
-I use [Go](https://golang.org), C#, and Java.
+I use Go, C#, and HTML5 to make stuff.
 
-Add me on Discord! Trinity#8754
+**Currently burnt out from coding for the most part.**
+
+Discord-`emma.#8754`
