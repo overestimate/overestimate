@@ -1,9 +1,25 @@
-### Hi!
+## overestimate
 
-I am Emma, a girl with a passion to code.
+### `whoami`
+Girl that codes in Go, nodejs, Python, and C#.
+I don't code if I burn out (which is frequent).
 
-I use Go, C#, and HTML5 to make stuff.
+---
 
-**Currently burnt out from coding for the most part.**
+### Recent activity
 
-Discord-`emma.#8754`
+* ⬆️ Pushed 1 commit to overestimate/overestimate
+* ⬆️ Pushed 1 commit to overestimate/overestimate
+* ⬆️ Pushed 1 commit to overestimate/overestimate
+* ⬆️ Pushed 1 commit to overestimate/overestimate
+* ⬆️ Pushed 1 commit to overestimate/MCsniperGO
+* ⬆️ Pushed 10 commits to overestimate/MCsniperGO
+* 🗣 Commented on #29 in Kqzz/MCsniperGO
+
+---
+
+##### Statistics
+<p>
+  Last refresh: 
+  <b>2022-02-09T02:36:54Z</b>
+</p>
