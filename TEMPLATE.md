@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **burnout reduction.**
 
-- 💬 Ask me about **Go**
+- 💬 Ask me about **Go, Python, and networking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
