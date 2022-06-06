@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **burnout reduction.**
 
-- 💬 Ask me about **Go**
+- 💬 Ask me about **Go, Python, and networking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,10 +27,10 @@
 
 <h3 align="left">Recent activity</h3>
 
+* 🍴 Forked overestimate/spingo from talwat/spingo
+* 🗣 Commented on #46 in Kqzz/MCsniperGO
 * ⬆️ Pushed 1 commit to overestimate/overestimate
 * ⬆️ Pushed 1 commit to overestimate/overestimate
 * 📦 Released "v0.1.0 - Fixed the darn thing" in overestimate/servehere
 * ⬆️ Pushed 1 commit to overestimate/servehere
 * ⬆️ Pushed 1 commit to overestimate/awm-src
-* ⬆️ Pushed 1 commit to overestimate/overestimate
-* 🗣 Commented on #40 in Kqzz/MCsniperGO
