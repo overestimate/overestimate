@@ -4,4 +4,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I'm not much of a character, and I haven't done too much. Feel free to look at my code.
 
 <h2 align="center">Recent Github Activiy</h2>
+
 <!--GITHUB_ACTIVITY:{"rows": 7}-->
