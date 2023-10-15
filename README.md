@@ -3,6 +3,8 @@
   <span>emily</span>
 </h1>
 
-I'm a developer with some experience in Go, Python, and HTML5. Most of my notable repos are partially complete side projects(:sweat_smile:), but I write little neat things.
+i'm a developer with experience in go, python, and html5. most of my notable repos are partially complete side projects :sweat_smile:, but i do write little neat things.
 
-**current project:** voicetraining_toolbox, a webapp that provides the tools you need to voice train
+**current projects:** i get bored sometimes, so i hop between projects. here's the ones currently in my cycle
+ - voicetraining_toolbox, a webapp that provides the tools you need to voice train
+ - steamwebapi-ts, an implementation of valve's web api in typescript.
