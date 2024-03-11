@@ -1,10 +1,19 @@
 <h1 align="center">
-  <!-- this is vile! --> <img src="https://github.com/overestimate/overestimate/assets/58041173/2d11805f-7c04-4100-af46-1ac9b12d5068" width="40" height="40" style="transform: translateY(8px);" /></img>
-  <span>emily</span>
+  <span>emma</span>
 </h1>
 
-i'm a developer with experience in go, python, and html5. most of my notable repos are partially complete side projects :sweat_smile:, but i do write little neat things.
+i'm a developer with experience in go, python, and html5. most of my notable repos are partially complete side projects (:sweat_smile:), but i do write neat little things.
 
+<!-- "current projects" my ass :trolley:
 **current projects:** i get bored sometimes, so i hop between projects. here's the ones currently in my cycle
  - voicetraining_toolbox, a webapp that provides the tools you need to voice train
  - steamwebapi-ts, an implementation of valve's web api in typescript.
+-->
+
+my pinned repos are either my most notable repos or ones im proud of.
+
+**list of (semi-)notable works:**
+
+- [<128kb steam + explorer launcher for steam deck-like devices](https://github.com/overestimate/tiny-steam-big-picture-launcher)
+- [small (unsupported!) htmx-style library](https://github.com/overestimate/fetchy-loader)
+- [and](https://github.com/overestimate/twitter-to-bluesky) [other](https://github.com/overestimate/gd-save-tools) [random](https://github.com/overestimate/cs2utils) [things](https://gist.github.com/overestimate/9e3cbf86c69045419a19a739c7bd7f81)
