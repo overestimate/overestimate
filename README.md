@@ -2,7 +2,7 @@
   <span>emma</span>
 </h1>
 
-i'm a developer with experience in go, python, and html5. most of my notable repos are partially complete side projects ( :sweat_smile: ), but i do write neat little things.
+i'm a developer with experience in go, python, and html5. most of my stuff never makes it on here ( :sweat_smile: ), but i do write neat little things.
 
 <!-- "current projects" my ass :trolley:
 **current projects:** i get bored sometimes, so i hop between projects. here's the ones currently in my cycle
@@ -12,7 +12,7 @@ i'm a developer with experience in go, python, and html5. most of my notable rep
 
 my pinned repos are either my most notable repos or ones im proud of.
 
-**list of (semi-)notable works:**
+**list of other linkworthy works:**
 
 - [<128kb steam + explorer launcher for steam deck-like devices](https://github.com/overestimate/tiny-steam-big-picture-launcher)
 - [small (unsupported!) htmx-style library](https://github.com/overestimate/fetchy-loader)
