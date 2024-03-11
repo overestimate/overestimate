@@ -2,7 +2,7 @@
   <span>emma</span>
 </h1>
 
-i'm a developer with experience in go, python, and html5. most of my notable repos are partially complete side projects (:sweat_smile:), but i do write neat little things.
+i'm a developer with experience in go, python, and html5. most of my notable repos are partially complete side projects ( :sweat_smile: ), but i do write neat little things.
 
 <!-- "current projects" my ass :trolley:
 **current projects:** i get bored sometimes, so i hop between projects. here's the ones currently in my cycle
