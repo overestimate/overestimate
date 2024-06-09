@@ -18,7 +18,3 @@ my pinned repos are either my most notable repos or ones im proud of.
 - [small (unsupported!) htmx-style library](https://github.com/overestimate/fetchy-loader)
 - [and](https://github.com/overestimate/twitter-to-bluesky) [other](https://github.com/overestimate/gd-save-tools) [random](https://github.com/overestimate/cs2utils) [things](https://gist.github.com/overestimate/9e3cbf86c69045419a19a739c7bd7f81)
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.15; background: url('https://github.com/overestimate/overestimate/assets/58041173/4657cb95-e646-4ed2-b505-f3249cdb5e38');]{x0000}$}
-```
-<!-- ![background](https://github.com/overestimate/overestimate/assets/58041173/4657cb95-e646-4ed2-b505-f3249cdb5e38) -->
