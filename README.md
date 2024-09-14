@@ -1,8 +1,8 @@
 <h1 align="center">
-  <span>emma</span>
+  <span>hi, i'm emily</span>
 </h1>
 
-i'm a developer with experience in go, python, and html5. most of my stuff never makes it on here ( :sweat_smile: ), but i do write neat little things.
+i'm a developer with experience in go, python, and html5. i write code and post it here sometimes
 
 <!-- "current projects" my ass :trolley:
 **current projects:** i get bored sometimes, so i hop between projects. here's the ones currently in my cycle
@@ -14,7 +14,7 @@ my pinned repos are either my most notable repos or ones im proud of.
 
 **list of other linkworthy works:**
 
-- [<128kb steam + explorer launcher for steam deck-like devices](https://github.com/overestimate/tiny-steam-big-picture-launcher)
-- [small (unsupported!) htmx-style library](https://github.com/overestimate/fetchy-loader)
-- [and](https://github.com/overestimate/twitter-to-bluesky) [other](https://github.com/overestimate/gd-save-tools) [random](https://github.com/overestimate/cs2utils) [things](https://gist.github.com/overestimate/9e3cbf86c69045419a19a739c7bd7f81)
-
+- [<128kb tool to start steam before explorer](https://github.com/overestimate/tiny-steam-big-picture-launcher)
+- [small htmx-style library (abandoned since htmx exists)](https://github.com/overestimate/fetchy-loader)
+- [a simple twitter->bluesky crosspost tool](https://github.com/overestimate/twitter-to-bluesky)
+- [geometry dash savedata tools](https://github.com/overestimate/gd-save-tools)
